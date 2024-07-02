@@ -1,0 +1,5 @@
+outs:
+- md5: 7f65873322759152180478c612bad923
+  size: 2209
+  hash: md5
+  path: dvc-s3-data.csv
